@@ -1,0 +1,3622 @@
+fileFormatVersion: 2
+guid: f2c32d26272f2594d8dac35fd6ad044c
+timeCreated: 1519647719
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Magishop_Merchant_0
+    21300002: Magishop_Merchant_1
+    21300004: Magishop_Merchant_2
+    21300006: Magishop_Merchant_3
+    21300008: Magishop_Merchant_4
+    21300010: Magishop_Merchant_5
+    21300012: Magishop_Merchant_6
+    21300014: Magishop_Merchant_7
+    21300016: Magishop_Merchant_8
+    21300018: Magishop_Merchant_9
+    21300020: Magishop_Merchant_10
+    21300022: Magishop_Merchant_11
+    21300024: Magishop_Merchant_12
+    21300026: Magishop_Merchant_13
+    21300028: Magishop_Merchant_14
+    21300030: Magishop_Merchant_15
+    21300032: Magishop_Merchant_16
+    21300034: Magishop_Merchant_17
+    21300036: Magishop_Merchant_18
+    21300038: Magishop_Merchant_19
+    21300040: Magishop_Merchant_20
+    21300042: Magishop_Merchant_21
+    21300044: Magishop_Merchant_22
+    21300046: Magishop_Merchant_23
+    21300048: Magishop_Merchant_24
+    21300050: Magishop_Merchant_25
+    21300052: Magishop_Merchant_26
+    21300054: Magishop_Merchant_27
+    21300056: Magishop_Merchant_28
+    21300058: Magishop_Merchant_29
+    21300060: Magishop_Merchant_30
+    21300062: Magishop_Merchant_31
+    21300064: Magishop_Merchant_32
+    21300066: Magishop_Merchant_33
+    21300068: Magishop_Merchant_34
+    21300070: Magishop_Merchant_35
+    21300072: Magishop_Merchant_36
+    21300074: Magishop_Merchant_37
+    21300076: Magishop_Merchant_38
+    21300078: Magishop_Merchant_39
+    21300080: Magishop_Merchant_40
+    21300082: Magishop_Merchant_41
+    21300084: Magishop_Merchant_42
+    21300086: Magishop_Merchant_43
+    21300088: Magishop_Merchant_44
+    21300090: Magishop_Merchant_45
+    21300092: Magishop_Merchant_46
+    21300094: Magishop_Merchant_47
+    21300096: L1
+    21300098: L2
+    21300100: L3
+    21300102: L4
+    21300104: Magishop_Merchant_52
+    21300106: Magishop_Merchant_53
+    21300108: Magishop_Merchant_54
+    21300110: Magishop_Merchant_55
+    21300112: Magishop_Merchant_56
+    21300114: Magishop_Merchant_57
+    21300116: Magishop_Merchant_58
+    21300118: Magishop_Merchant_59
+    21300120: Magishop_Merchant_60
+    21300122: Magishop_Merchant_61
+    21300124: Magishop_Merchant_62
+    21300126: Magishop_Merchant_63
+    21300128: Magishop_Merchant_64
+    21300130: Magishop_Merchant_65
+    21300132: Magishop_Merchant_66
+    21300134: Magishop_Merchant_67
+    21300136: Magishop_Merchant_68
+    21300138: Magishop_Merchant_69
+    21300140: Magishop_Merchant_70
+    21300142: Magishop_Merchant_71
+    21300144: Magishop_Merchant_72
+    21300146: Magishop_Merchant_73
+    21300148: Magishop_Merchant_74
+    21300150: Magishop_Merchant_75
+    21300152: Magishop_Merchant_76
+    21300154: Magishop_Merchant_77
+    21300156: Magishop_Merchant_78
+    21300158: Magishop_Merchant_79
+    21300160: Magishop_Merchant_80
+    21300162: Magishop_Merchant_81
+    21300164: Magishop_Merchant_82
+    21300166: Magishop_Merchant_83
+    21300168: Magishop_Merchant_84
+    21300170: Magishop_Merchant_85
+    21300172: Magishop_Merchant_86
+    21300174: Magishop_Merchant_87
+    21300176: Magishop_Merchant_88
+    21300178: Magishop_Merchant_89
+    21300180: Magishop_Merchant_90
+    21300182: Magishop_Merchant_91
+    21300184: Magishop_Merchant_92
+    21300186: Magishop_Merchant_93
+    21300188: Magishop_Merchant_94
+    21300190: Magishop_Merchant_95
+    21300192: Magishop_Merchant_96
+    21300194: Magishop_Merchant_97
+    21300196: Magishop_Merchant_98
+    21300198: Magishop_Merchant_99
+    21300200: Magishop_Merchant_100
+    21300202: Magishop_Merchant_101
+    21300204: Magishop_Merchant_102
+    21300206: Magishop_Merchant_103
+    21300208: Magishop_Merchant_104
+    21300210: Magishop_Merchant_105
+    21300212: Magishop_Merchant_106
+    21300214: Magishop_Merchant_107
+    21300216: Magishop_Merchant_108
+    21300218: Magishop_Merchant_109
+    21300220: Magishop_Merchant_110
+    21300222: Magishop_Merchant_111
+    21300224: Magishop_Merchant_112
+    21300226: Magishop_Merchant_113
+    21300228: Magishop_Merchant_114
+    21300230: Magishop_Merchant_115
+    21300232: Magishop_Merchant_116
+    21300234: Magishop_Merchant_117
+    21300236: Magishop_Merchant_118
+    21300238: Magishop_Merchant_119
+    21300240: Magishop_Merchant_120
+    21300242: Magishop_Merchant_121
+    21300244: Magishop_Merchant_122
+    21300246: Magishop_Merchant_123
+    21300248: Magishop_Merchant_124
+    21300250: Magishop_Merchant_125
+    21300252: Magishop_Merchant_126
+    21300254: Magishop_Merchant_127
+    21300256: Magishop_Merchant_128
+    21300258: Magishop_Merchant_129
+    21300260: Magishop_Merchant_130
+    21300262: Magishop_Merchant_131
+    21300264: Magishop_Merchant_132
+    21300266: Magishop_Merchant_133
+    21300268: Magishop_Merchant_134
+    21300270: Magishop_Merchant_135
+    21300272: Magishop_Merchant_136
+    21300274: Magishop_Merchant_137
+    21300276: Magishop_Merchant_138
+    21300278: Magishop_Merchant_139
+    21300280: Magishop_Merchant_140
+    21300282: Magishop_Merchant_141
+    21300284: Magishop_Merchant_142
+    21300286: Magishop_Merchant_143
+    21300288: Magishop_Merchant_144
+    21300290: Magishop_Merchant_145
+    21300292: Magishop_Merchant_146
+    21300294: Magishop_Merchant_147
+    21300296: Magishop_Merchant_148
+    21300298: Magishop_Merchant_149
+    21300300: Magishop_Merchant_150
+    21300302: Magishop_Merchant_151
+    21300304: Magishop_Merchant_152
+    21300306: Magishop_Merchant_153
+    21300308: Magishop_Merchant_154
+    21300310: Magishop_Merchant_155
+    21300312: Magishop_Merchant_156
+    21300314: Magishop_Merchant_157
+    21300316: Magishop_Merchant_158
+    21300318: Magishop_Merchant_159
+    21300320: Magishop_Merchant_160
+    21300322: Magishop_Merchant_161
+    21300324: Magishop_Merchant_162
+    21300326: Magishop_Merchant_163
+    21300328: Magishop_Merchant_164
+    21300330: Magishop_Merchant_165
+    21300332: Magishop_Merchant_166
+    21300334: Magishop_Merchant_167
+    21300336: Magishop_Merchant_168
+    21300338: Magishop_Merchant_169
+    21300340: Magishop_Merchant_170
+    21300342: Magishop_Merchant_171
+    21300344: Magishop_Merchant_172
+    21300346: Magishop_Merchant_173
+    21300348: Magishop_Merchant_174
+    21300350: Magishop_Merchant_175
+    21300352: Magishop_Merchant_176
+    21300354: Magishop_Merchant_177
+    21300356: Magishop_Merchant_178
+    21300358: Magishop_Merchant_179
+    21300360: Magishop_Merchant_180
+    21300362: Magishop_Merchant_181
+    21300364: Magishop_Merchant_182
+    21300366: Magishop_Merchant_183
+    21300368: Magishop_Merchant_184
+    21300370: Magishop_Merchant_185
+    21300372: Magishop_Merchant_186
+    21300374: Magishop_Merchant_187
+    21300376: Magishop_Merchant_188
+    21300378: Magishop_Merchant_189
+    21300380: Magishop_Merchant_190
+    21300382: Magishop_Merchant_191
+    21300384: Magishop_Merchant_192
+    21300386: Magishop_Merchant_193
+    21300388: Magishop_Merchant_194
+    21300390: Magishop_Merchant_195
+    21300392: Magishop_Merchant_196
+    21300394: Magishop_Merchant_197
+    21300396: Magishop_Merchant_198
+    21300398: Magishop_Merchant_199
+    21300400: Magishop_Merchant_200
+    21300402: Magishop_Merchant_201
+    21300404: Magishop_Merchant_202
+    21300406: Magishop_Merchant_203
+    21300408: Magishop_Merchant_204
+    21300410: Magishop_Merchant_205
+    21300412: Magishop_Merchant_206
+    21300414: Magishop_Merchant_207
+    21300416: Magishop_Merchant_208
+    21300418: Magishop_Merchant_209
+    21300420: Magishop_Merchant_210
+    21300422: Magishop_Merchant_211
+    21300424: Magishop_Merchant_212
+    21300426: Magishop_Merchant_213
+    21300428: Magishop_Merchant_214
+    21300430: Magishop_Merchant_215
+    21300432: Magishop_Merchant_216
+    21300434: Magishop_Merchant_217
+    21300436: Magishop_Merchant_218
+    21300438: Magishop_Merchant_219
+    21300440: Magishop_Merchant_220
+    21300442: Magishop_Merchant_221
+    21300444: Magishop_Merchant_222
+    21300446: Magishop_Merchant_223
+    21300448: Magishop_Merchant_224
+    21300450: Magishop_Merchant_225
+    21300452: Magishop_Merchant_226
+    21300454: Magishop_Merchant_227
+    21300456: Magishop_Merchant_228
+    21300458: Magishop_Merchant_229
+    21300460: Magishop_Merchant_230
+    21300462: Magishop_Merchant_231
+    21300464: Magishop_Merchant_232
+    21300466: Magishop_Merchant_233
+    21300468: Magishop_Merchant_234
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magishop_Merchant_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 376
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 374
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 374
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 374
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 376
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 376
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 376
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 376
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 374
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 376
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 376
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 376
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 376
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 330
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 330
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 330
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_28
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 330
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 330
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_30
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 330
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 330
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_32
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 330
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 330
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_34
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 330
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 311
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 311
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 311
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 311
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 311
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_40
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 309
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 311
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_42
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 311
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_43
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 311
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 311
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_45
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 309
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_46
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 311
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 309
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 266
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 266
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 266
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: L4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 266
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_52
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 248
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_53
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 248
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_54
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 248
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 248
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 248
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_58
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 248
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_60
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 248
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_61
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 248
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_62
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_63
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 246
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_64
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 246
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 248
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_67
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 248
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_68
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_69
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 248
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_70
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 248
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_71
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_72
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 248
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_75
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_76
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 248
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_77
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_78
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 248
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_79
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_80
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_81
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_82
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_84
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 247
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 248
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_86
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 248
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_87
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_88
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 248
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_89
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_90
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 248
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_91
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 248
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_92
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_93
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_94
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 248
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_95
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 246
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_96
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 248
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_97
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 248
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_98
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_99
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 248
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_100
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 248
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_101
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_102
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 246
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_103
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_104
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 248
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_105
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 248
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_106
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_107
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 248
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_108
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 248
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_109
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_110
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 246
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_111
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 248
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_112
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 248
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_113
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_114
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 248
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_115
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 248
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_116
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 248
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_117
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_118
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_119
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_120
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 248
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_121
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 248
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_122
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 202
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_123
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 202
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_124
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 202
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_125
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 202
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_126
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 202
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_127
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 202
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_128
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 202
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_129
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 202
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_130
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 202
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_131
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_132
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_133
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 178
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_134
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_135
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_136
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 178
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_137
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 176
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_138
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_139
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 178
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_140
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 178
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_141
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_142
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 178
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_143
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_144
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_145
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_146
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 178
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_147
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 178
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_148
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_149
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_150
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_151
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_152
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 178
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_153
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_154
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 178
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_155
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_156
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 178
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_157
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 178
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_158
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_159
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 178
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_160
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_161
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_162
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 176
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_163
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 178
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_164
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 178
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_165
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_166
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 178
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_167
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_168
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 178
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_169
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_170
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 138
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_171
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 138
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_172
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 138
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_173
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 138
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_174
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 159
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_175
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 159
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_176
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 163
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_177
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 163
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_178
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 145
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_179
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 145
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_180
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 145
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_181
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 115
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_182
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_183
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 115
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_184
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 113
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_185
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 115
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_186
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 115
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_187
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 115
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_188
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 115
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_189
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 115
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_190
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 115
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_191
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 115
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_192
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 113
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_193
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 115
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_194
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 115
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_195
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 113
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_196
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 113
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_197
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 113
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_198
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 74
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_199
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 74
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_200
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 74
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_201
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 74
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_202
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 81
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_203
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 81
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_204
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 81
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_205
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_206
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 48
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_207
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 48
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_208
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 48
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_209
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 10
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 21
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_211
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 23
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_212
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_213
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_214
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 10
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_215
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 29
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_216
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 31
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_217
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 19
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_218
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 18
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_219
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 19
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_220
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 19
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_221
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 24
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_222
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 19
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_223
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 19
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_224
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 10
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_225
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 8
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_226
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 11
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_227
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 9
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_228
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 11
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_229
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 9
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_230
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_231
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_232
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_233
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Magishop_Merchant_234
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interact
+  - Terrain
+  - Destroy
+  - Pickup
+  - Line
+  - Writer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Element
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Low Layer
+    uniqueID: 2877098175
+    locked: 0
+  - name: Mid Layer
+    uniqueID: 4202715183
+    locked: 0
+  - name: Player
+    uniqueID: 1531424573
+    locked: 0
+  - name: Overlap
+    uniqueID: 2779307813
+    locked: 0
+  - name: High Layer
+    uniqueID: 1012455101
+    locked: 0
