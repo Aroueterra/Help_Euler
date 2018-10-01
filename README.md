@@ -1,13 +1,14 @@
-# Help Euler!
-> [C#/Unity] Short puzzle game designed around the concept of discrete mathematics.
-
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
+# Help Euler!
+> [C#/Unity] Short puzzle game designed around the concept of discrete mathematics.
+
+<img align="right" width="100" height="100" src="https://github.com/Aroueterra/Help_Euler/blob/master/graphics/splash.PNG">
 The game focuses on puzzle solving around the theme of discrete mathematics. Explore the small world in search for valuable coins. Collect 10 coins by completing puzzles and searching around and you win the game!
 
-[![Splash screen](https://github.com/Aroueterra/Help_Euler/blob/master/graphics/splash.PNG)]()
+
 
 ## Installation
 
