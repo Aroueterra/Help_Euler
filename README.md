@@ -8,7 +8,7 @@
 <img align="right" width="100" height="100" src="https://github.com/Aroueterra/Help_Euler/blob/master/graphics/if_cat_laptop_185531.png">
 The game focuses on puzzle solving around the theme of discrete mathematics. Explore the small world in search for valuable coins. Collect 10 coins by completing puzzles and searching around and you win the game!
 
-
+Note: There is currently a resolution bug with the game, if the game stutters violently when you start it or move around, try a different resolution setting. This will be fixed in the next update!
 
 ## Installation
 
